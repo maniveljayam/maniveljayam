@@ -5,10 +5,9 @@
 - 📫 How to reach me 
    - Mobile: +91 8012808060
    - Email: maniveljayam@gmail.com
-   - GitHub: github.com/maniveljayam
-   - LinkedIn: linkedin.com/in/maniveljayaraman
-   - Website: maniveljayam.netlify.app
-
+   - GitHub: https://github.com/maniveljayam
+   - LinkedIn: https://www.linkedin.com/in/maniveljayaraman/
+   - Website: https://maniveljayam.netlify.app/
 <!---
 maniveljayam/maniveljayam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
